@@ -4,14 +4,17 @@ This powerful dashboard is designed to uncover valuable insights from e-commerce
 
 # Overview:
 **Key Metrics:** Get insights into total sales, order trends, customer spending patterns, and product popularity.
+
 **Filters:** Use filters for country, membership status, and product type to explore data based on specific criteria.
 
 # Design and User Experience:
 **User-Friendly Design:** The dashboard features a user-friendly layout and intuitive navigation for easy data exploration.
+
 **Visual Appeal:** Visualizations are designed to be informative, engaging, and visually appealing, enhancing the user experience.
 
 # Time Intelligence:
 **Trend Analysis:** Explore trends over time, such as monthly or quarterly sales, using time intelligence features.
+
 **Historical Data Analysis:** Gain insights into historical sales performance and identify seasonal trends.
 
 # Geographic Analysis:
@@ -25,15 +28,19 @@ This powerful dashboard is designed to uncover valuable insights from e-commerce
 
 # Data Sources:
 **Ecommerce Orders:** Detailed information on customer orders, including products purchased, quantities, unit prices, order dates, and shipping costs.
+
 **Customer Profiles:** Rich information on customer demographics, including email, country, membership type, and spending history.
 
 # Technologies Used:
 **Tableau:** Leveraged for data visualization, analysis, and dashboard creation.
+
 **Calculated Fields and Tableau Functions:** Utilized for advanced analytics and calculations within Tableau.
 
 # How to Use:
 Clone or download the repository to your local machine.
+
 Open the Tableau workbook using Tableau.
+
 Explore the dashboard using various filters and interactive elements to gain valuable insights into e-commerce data.
 
 # Disclaimer:
