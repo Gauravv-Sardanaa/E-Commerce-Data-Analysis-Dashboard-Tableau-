@@ -1,5 +1,8 @@
 # E-Commerce Data Analysis Dashboard
 Welcome to the E-Commerce Data Analysis Dashboard!
+
+![Uploading image.png…]()
+
 This powerful dashboard is designed to uncover valuable insights from e-commerce data, enabling informed decision-making and optimization of e-commerce strategies. Below, you'll find a detailed overview of the features and functionalities of this dashboard.
 
 # Overview:
